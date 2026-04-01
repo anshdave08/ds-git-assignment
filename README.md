@@ -33,3 +33,6 @@ git push origin main
 git push origin branch-name
 git pull origin main
 git merge branch-name
+
+## Feature Update
+This section was added in the feature-update branch to demonstrate branching and pull request workflow.
